@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "iridium-administration",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3135cd14-aae8-4281-a44a-99ae096cda8f",
+      "database_name": "iridium-administration"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
